@@ -1,0 +1,21 @@
+ros-indigo-pyros-config (0.1.1-0saucy) saucy; urgency=high
+
+  * fixing repo links in package.xml
+  * using renamed dependency catkin_pip
+  * small cleanup.
+    removing mention of ros.
+    now printing sys.path in case import fails.
+    added gitignore.
+  * Contributors: alexv
+
+ -- AlexV <asmodehn@gmail.com>  Wed, 01 Jun 2016 15:00:00 -0000
+
+ros-indigo-pyros-config (0.1.0-0saucy) saucy; urgency=high
+
+  * cleaned up README. added .travis.yml
+  * copying files from pyros-setup
+  * Contributors: alexv
+
+ -- AlexV <asmodehn@gmail.com>  Tue, 31 May 2016 15:00:00 -0000
+
+
