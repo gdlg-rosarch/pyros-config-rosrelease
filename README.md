@@ -1,3 +1,26 @@
+## pyros_config (indigo) - 0.1.3-0
+
+The packages in the `pyros_config` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pyros_config --edit` on `Wed, 10 Aug 2016 23:49:04 -0000`
+
+The `pyros_config` package was released.
+
+Version of package(s) in repository `pyros_config`:
+
+- upstream repository: https://github.com/asmodehn/pyros-config.git
+- release repository: https://github.com/asmodehn/pyros-config-rosrelease.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## pyros_config (jade) - 0.1.2-0
 
 The packages in the `pyros_config` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade pyros_config` on `Fri, 03 Jun 2016 03:05:40 -0000`
