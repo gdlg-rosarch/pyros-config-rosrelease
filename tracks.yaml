@@ -36,13 +36,13 @@ tracks:
       -i :{release_inc} --os-name debian --os-not-required
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc}
-    devel_branch: jade
+    devel_branch: master
     last_version: 0.1.2
     name: upstream
-    patches: null
+    patches: jade-patches
     release_inc: '0'
     release_repo_url: null
-    release_tag: :{version}
+    release_tag: ros-:{version}
     ros_distro: jade
     vcs_type: git
     vcs_uri: https://github.com/asmodehn/pyros-config.git
