@@ -18,7 +18,7 @@ branches:
 
 env:
   global:
-    - CONTAINER_NAME=pyros_sconfig_docker
+    - CONTAINER_NAME=pyros_config_docker
   # This will check any ROS distro supported on this OS
   # checking devel and install separately so that they don't influence each other (dependencies, path, env, etc.)
   matrix:
