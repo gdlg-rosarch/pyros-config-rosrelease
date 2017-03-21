@@ -1,3 +1,26 @@
+## pyros_config (kinetic) - 0.2.0-0
+
+The packages in the `pyros_config` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic pyros_config` on `Tue, 21 Mar 2017 08:23:16 -0000`
+
+The `pyros_config` package was released.
+
+Version of package(s) in repository `pyros_config`:
+
+- upstream repository: https://github.com/asmodehn/pyros-config.git
+- release repository: https://github.com/asmodehn/pyros-config-rosrelease.git
+- rosdistro version: `0.1.5-1`
+- old version: `0.1.5-1`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.25`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.39`
+
+
 ## pyros_config (kinetic) - 0.1.5-1
 
 The packages in the `pyros_config` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic pyros_config` on `Tue, 06 Sep 2016 05:46:23 -0000`
