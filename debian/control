@@ -1,0 +1,12 @@
+Source: ros-indigo-pyros-config
+Section: misc
+Priority: extra
+Maintainer: AlexV <asmodehn@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python-pytest, python-six, ros-indigo-catkin (>= 0.6.18), ros-indigo-catkin-pip (>= 0.2.0)
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pyros-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-pytest, python-six
+Description: Configuration package for Pyros
