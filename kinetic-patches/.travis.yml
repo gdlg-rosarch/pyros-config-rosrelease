@@ -5,8 +5,8 @@ services:
 
 branches:
   except:
-    - /^rpm/kinetic/trusty/.*$/  # not testing rpm builds in trusty
-    - /^debian/kinetic/trusty/.*$/ # not testing pacakge building here (ROS buildfarm will do it)
+    - /^rpm/kinetic/xenial/.*$/  # not testing rpm builds in xenial
+    - /^debian/kinetic/xenial/.*$/ # not testing pacakge building here (ROS buildfarm will do it)
 
   only:
     # We can test release or upstream after patches have been applied
