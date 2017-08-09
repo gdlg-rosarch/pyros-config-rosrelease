@@ -321,10 +321,10 @@ Versions of tools used:
 
 
 # pyros-config-rosrelease
-Releasing https://github.com/asmodehn/pyros-config for ROS
+Releasing https://github.com/pyros-dev/pyros-config for ROS
 
 
 | Indigo | Jade | Kinetic |
 |:------:|:----:|:-------:|
-| [![Build Status](https://travis-ci.org/asmodehn/pyros-config-rosrelease.svg?branch=release%2Findigo%2Fpyros_config)](https://travis-ci.org/asmodehn/pyros-config-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/pyros-config-rosrelease.svg?branch=release%2Fjade%2Fpyros_config)](https://travis-ci.org/asmodehn/pyros-config-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/pyros-config-rosrelease.svg?branch=release%2Fkinetic%2Fpyros_config)](https://travis-ci.org/asmodehn/pyros-config-rosrelease) |
+| [![Build Status](https://travis-ci.org/pyros-dev/pyros-config-rosrelease.svg?branch=release%2Findigo%2Fpyros_config)](https://travis-ci.org/pyros-dev/pyros-config-rosrelease) | [![Build Status](https://travis-ci.org/pyros-dev/pyros-config-rosrelease.svg?branch=release%2Fjade%2Fpyros_config)](https://travis-ci.org/pyros-dev/pyros-config-rosrelease) | [![Build Status](https://travis-ci.org/pyros-dev/pyros-config-rosrelease.svg?branch=release%2Fkinetic%2Fpyros_config)](https://travis-ci.org/pyros-dev/pyros-config-rosrelease) |
 
