@@ -1,3 +1,26 @@
+## pyros_config (lunar) - 0.2.0-0
+
+The packages in the `pyros_config` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --rosdistro lunar --track lunar pyros_config --edit` on `Thu, 10 Aug 2017 01:20:26 -0000`
+
+The `pyros_config` package was released.
+
+Version of package(s) in repository `pyros_config`:
+
+- upstream repository: https://github.com/pyros-dev/pyros-config.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pyros_config (indigo) - 0.2.0-0
 
 The packages in the `pyros_config` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pyros_config` on `Thu, 23 Mar 2017 09:56:17 -0000`
